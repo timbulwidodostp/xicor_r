@@ -1,6 +1,8 @@
 # xicor_r
 Chatterjee's rank correlation Use xicor With (In) R Software
 
+https://www.youtube.com/watch?v=eh4BRZDkmOA
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
